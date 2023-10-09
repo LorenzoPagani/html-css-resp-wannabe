@@ -151,4 +151,14 @@ img {
         flex-direction: column;
         align-items: center;
     }
+    .why-us, .steps {
+        margin: 0;
+    }
+
+    .why-us .text-center {
+        padding-top: 48px;
+    }
+    .why-us .container {
+        background-color: #222222;
+    }
 }
